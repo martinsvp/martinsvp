@@ -1,6 +1,7 @@
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Victor Martins</h1>
- 
-## Skills
+# Hi 👋 I'm Victor Martins
+
+
+## 🚀 Skills 
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -17,7 +18,9 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </div>
 
-## Socials
+<br>
+
+## 💻 Socials 
 
 <div align="left"> 
   <a href="https://www.github.com/martinsvp" target="_blank" rel="noreferrer"> 
@@ -43,17 +46,19 @@
   </a>
 </div>
 
-## Badges
+## 🔥 Badges
 
 ### My GitHub Stats
 
 <div align="left">
   <a href="http://www.github.com/martinsvp">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinsvp&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="martinsvp's GitHub stats" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=martinsvp&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" alt="martinsvp's GitHub stats" /></a>
 
   <a href="https://github.com/martinsvp">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsvp&layout=compact&langs_count=7&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages"/></a>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsvp&layout=compact&langs_count=7&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages"/></a>
   
   <a href="http://www.github.com/martinsvp">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinsvp&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinsvp&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
+
+---
