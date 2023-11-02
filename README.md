@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Martins
-======================================================================================================================================
-
-### Skills
-
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Victor Martins</h1>
+ 
+## Skills
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -19,8 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </div>
 
-
-### Socials
+## Socials
 
 <div align="left"> 
   <a href="https://www.github.com/martinsvp" target="_blank" rel="noreferrer"> 
@@ -46,9 +43,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </a>
 </div>
 
-### Badges
+## Badges
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <div align="left">
   <a href="http://www.github.com/martinsvp">
