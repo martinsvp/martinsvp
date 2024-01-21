@@ -1,4 +1,4 @@
-# Hi ![hand30](https://github.com/martinsvp/martinsvp/assets/89230284/e7684e93-a56e-48cd-8a84-7c8653a1aff3) I'm Victor Martins 
+# Hi there, I'm Victor Martins ![hand30](https://github.com/martinsvp/martinsvp/assets/89230284/e7684e93-a56e-48cd-8a84-7c8653a1aff3)
 
 <div align="left">
     <a href="http://www.github.com/martinsvp">
