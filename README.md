@@ -2,17 +2,31 @@
 
 # Hello World! I'm Victor, a Brazilian Web Developer 👋🏼:
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div>
-    👨🏼‍🎓 studying Information Systems at the Fluminense Federal University <br>
-    👨🏼‍💻 working as a web developer since 2023 <br>
-  </div>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhhOGxwcnFqdHp3bThjZmM1cm1kMXgya3cyemg3c29nODI5MWJocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"/>
 
-  <div>
-    <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhhOGxwcnFqdHp3bThjZmM1cm1kMXgya3cyemg3c29nODI5MWJocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"/>
-  </div>
+
+<div align="left">
+  <p>👨🏼‍🎓 studying Information Systems at the Fluminense Federal University</p>
+  <p>👨🏼‍💻 working as a web developer since 2023</p>
 </div>
 
+<br>
+<br>
+<br>
+
+
+# 📊 GitHub Stats:
+
+<div align="left">
+     <a href="http://www.github.com/martinsvp">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinsvp&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+     </a>
+     <a href="http://www.github.com/martinsvp">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsvp&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+     </a>  
+ </div>
+
+<br>
 
 # 💻 Tech Stack:
 
