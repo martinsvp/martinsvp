@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png" alt="GitHub Banner" width="100%" max-height="460px"/>
 
 # Hello World! I'm Victor, a Brazilian Web Developer 👋🏼:
 👨🏼‍🎓 studying Information Systems at the Fluminense Federal University<br>👨🏼‍💻 working as a web developer since 2023 <br>
